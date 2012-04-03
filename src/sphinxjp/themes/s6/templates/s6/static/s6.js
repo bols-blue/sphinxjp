@@ -268,11 +268,11 @@ if (!s6.uai.ie || s6.uai.ie >= 7) {
         },
     
         '.s6.mac': {
-            fontFamily: "'ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro',sans-serif"
+            fontFamily: "'Georgia','sans-serif'"
         },
     
         '.s6.win': {
-            fontFamily: "'メイリオ',Meiryo,'ＭＳ Ｐゴシック',sans-serif"
+            fontFamily: "'Georgia','sans-serif'"
         },
     
         '.s6 .page': {
@@ -432,11 +432,11 @@ else {
         },
     
         '.s6.mac': {
-            fontFamily: "'ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro',sans-serif"
+            fontFamily: "'Georgia','sans-serif'"
         },
     
         '.s6.win': {
-            fontFamily: "'メイリオ',Meiryo,'ＭＳ Ｐゴシック',sans-serif"
+            fontFamily: "'Georgia','sans-serif'"
         },
     
         '.s6 .page': {

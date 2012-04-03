@@ -170,6 +170,9 @@ div.sphinxsidebar:hover {
 
 .s6.sphinx .page {
     background-image: url(background.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
 }
 
 .s6.sphinx .page.default > pre {
